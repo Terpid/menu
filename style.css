@@ -11,7 +11,7 @@ div.menu_tlo{
     background:#34495e ;
     border-radius: 8px;
     font-size: 0;
-    box-shadow: 0 2px 3px 0 rgba(red, green, blue, alpha);
+    box-shadow: 0 2px 3px 0;
 }
 div.strona {
     
@@ -20,5 +20,5 @@ div.strona {
     height: 25px;
     background:#34495e ;
     border-radius: 8px;
-    
+    box-shadow: 0 2px 3px 0;
 }
