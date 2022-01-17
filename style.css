@@ -6,7 +6,7 @@ body
 div.menu_tlo{
     position: relative;
     margin: 100px auto 0;
-    width: 390px;
+    width: 590px;
    
     background:#34495e ;
     border-radius: 8px;
@@ -16,7 +16,7 @@ div.menu_tlo{
 div.strona {
     
     margin: 70px auto 0;
-    width: 390px;
+    width: 590px;
     
     background:#34495e ;
     border-radius: 8px;
