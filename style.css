@@ -5,7 +5,8 @@ body
 }
 div.menu_tlo{
     background:#34495e ;
-    width: 18%;
+    height: 450px;
+    width: 35%;
     border-radius: 8px;
     font-size: 0;
     box-shadow: 0 2px 3px 0;
