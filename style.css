@@ -6,16 +6,12 @@ body
 div.menu_tlo{
     margin: 70px auto 0;
     position: relative;
-    height: 57px;
-    width: 590px;
-   
     background:#34495e ;
     border-radius: 8px;
     font-size: 0;
     box-shadow: 0 2px 3px 0;
 }
 div.strona {
-    width: 590px;
     background:#34495e ;
     border-radius: 8px;
     box-shadow: 0 2px 3px 0;
